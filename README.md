@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Introduction to GitHub for Project Darwin
+# Introduction to GitHub | First PR
 
 _Get started using GitHub in less than an hour._
 
